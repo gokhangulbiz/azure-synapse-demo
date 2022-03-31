@@ -2,7 +2,7 @@
 	"name": "SQL script 1",
 	"properties": {
 		"content": {
-			"query": "select * from Test\n\n--Daron was here.\n--New comment",
+			"query": "select * from Test\n\n--Daron was here.\n--New comment123",
 			"metadata": {
 				"language": "sql"
 			},
